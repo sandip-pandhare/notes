@@ -1,0 +1,120 @@
+REACT HOOKS
+	
+	https://daveceddia.com/intro-to-hooks/
+	https://reactjs.org/docs/hooks-reference.html
+	
+	React Hooks Course - All React Hooks Explained
+	https://www.youtube.com/watch?v=LlvBzyy-558&t=274s
+
+	https://www.w3schools.com/react/react_hooks.asp
+	Hooks allow function components to have access to state and other React features.
+	Because of this, class components are generally no longer needed.
+	
+	https://lo-victoria.com/series/a-look-at-react-hooks
+	
+	
+	React Hooks Interview Questions
+	https://backbencher.dev/articles/react-hooks-interview-questions
+	
+	
+	// useState vs useReducer
+	
+	
+	
+	
+	useState
+	
+		useState is a Hook that lets you add React state to function components
+	
+		https://reactjs.org/docs/hooks-state.html
+		https://daveceddia.com/usestate-hook-examples/
+		https://lo-victoria.com/a-look-at-react-hooks-usestate
+		
+	
+	useEffect
+		
+		The Effect Hook lets you perform side effects in function components:
+		
+		https://reactjs.org/docs/hooks-effect.html
+
+		https://www.w3schools.com/react/react_useeffect.asp
+		useEffect accepts two arguments. The second argument is optional.
+		useEffect(<function>, <dependency>)
+			
+		https://www.youtube.com/watch?v=bd8fl6jJT4A	// laith academy useEffect video
+		
+		https://lo-victoria.com/a-look-at-react-hooks-useeffect
+		
+	useLayoutEffect
+		similar as useEffect
+		
+	
+	useContext
+		
+		React Context is a way to manage state globally.
+		It can be used together with the useState Hook to share state between deeply nested components more easily than with useState alone.
+		https://www.w3schools.com/react/react_usecontext.asp
+		
+		https://www.youtube.com/watch?v=LlvBzyy-558&t=274s
+		
+		
+	useReducer
+		
+		https://www.w3schools.com/react/react_usereducer.asp
+		The useReducer Hook is similar to the useState Hook. (alternate to useState)
+		It allows for custom state logic.
+		If you find yourself keeping track of multiple pieces of state that rely on complex logic, useReducer may be useful.
+		useReducer(<reducer>, <initialState>)
+		
+	
+	useRef
+		Does Not Cause Re-renders
+		useRef() only returns one item. It returns an Object called current. When we initialize useRef we set the initial value: useRef(0).
+		The useRef Hook can also be used to keep track of previous state values. This is because we are able to persist useRef values between renders.
+
+		https://www.w3schools.com/react/react_useref.asp
+		The useRef Hook allows you to persist values between renders.
+		It can be used to store a mutable value that does not cause a re-render when updated.
+		It can be used to access a DOM element directly.
+		
+		https://www.youtube.com/watch?v=t2ypzz6gJm0
+		Learn useRef in 11 Minutes
+		Web dev simplified
+		
+		https://www.youtube.com/watch?v=yviJikU4gwk
+		useRef never re-render DOM element
+		you can use it to store values, but it is not designed to do that
+		designed to store the reference of element
+		
+		https://lo-victoria.com/a-look-at-react-hooks-useref
+		
+		
+		
+	useCallback
+		https://www.w3schools.com/react/react_usecallback.asp
+		The React useCallback Hook returns a memoized callback function.
+		
+		https://lo-victoria.com/a-look-at-react-hooks-usecallback
+		
+	
+	useMemo
+		https://www.instagram.com/p/CbJ_DuSgKvS/
+		
+		
+		
+		
+		
+	useCallback
+react-query	
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	
+		

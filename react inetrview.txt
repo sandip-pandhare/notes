@@ -1,0 +1,65 @@
+https://www.fullstack.cafe/blog/react-js-interview-questions
+
+	react lifecycle method
+	
+	class based components in react
+
+	context api
+	
+	Lifting the state up?
+	
+	components and props
+		https://reactjs.org/docs/components-and-props.html
+		Components let you split the UI into independent, reusable pieces, and think about each piece in isolation.
+		Conceptually, components are like JavaScript functions. They accept arbitrary inputs (called “props”) and return React elements describing what should appear on the screen.
+		
+	
+	React state and lifecycle
+		https://reactjs.org/docs/state-and-lifecycle.html
+		https://tsh.io/blog/react-component-lifecycle-methods-vs-hooks/
+		
+	what is prop?
+	
+	Higher Order Component
+	
+	stateful vs stateless components
+	
+	axios
+	
+	what is babel in react?
+		Babel is a transpiler i.e. it converts the JSX to vanilla JavaScript.
+		
+	How is React unidirectional?
+		React, a Javascript library, uses unidirectional data flow. The data from the parent is known as props.
+		You can only transfer data from parent to child and not vice versa.
+		This means that the child components cannot update or modify the data on their own, 
+		makeing sure that a clean data flow architecture is followed.
+		
+	What is unidirectional data flow in React?
+		https://www.educative.io/edpresso/what-is-unidirectional-data-flow-in-react
+		https://www.pluralsight.com/guides/understanding-unidirectional-data-flow
+		
+		
+	ways of getting data from api in react
+		https://dev.to/olenadrugalya/ways-of-getting-data-from-api-in-react-2kpf
+		
+	What is prop drilling in react?
+	
+	What does Side effects mean in React?
+		https://www.reddit.com/r/reactjs/comments/8avfej/what_does_side_effects_mean_in_react/
+		A "side effect" is anything that affects something outside the scope of the function being executed.
+		These can be, say, a network request, which has your code communicating with a third party (and thus making the request,
+		causing logs to be recorded, caches to be saved or updated, all sorts of effects that are outside the function.
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		

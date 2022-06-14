@@ -1,0 +1,44 @@
+JS SNIPPETS (WHAT WILL BE THE OUTPUT)
+
+	console.log(2 - 3 + '3');
+
+	var a = {e:1,b:2};
+	var b = {e:1,b:2};
+	console.log(a === b);
+
+	https://stackoverflow.com/questions/11704971/why-are-two-identical-objects-not-equal-to-each-other
+
+
+	let str= "Marvel";
+	console.log(str[2]);
+	str[1]= "@";
+	console.log(str);
+
+
+	var x = 21;
+		var girl = function () {
+			console.log(x);
+			var x = 20;
+		};
+	girl();
+
+
+	console.log(3 > 2 > 1);
+	console.log(1 < 2 < 3);
+	https://stackoverflow.com/questions/51648057/why-does-3-2-1-return-false-while-1-2-3-returns-true
+
+
+	var a = 10;
+	var b = 5;
+
+	[a,b]=[b,a]
+	console.log(a);
+	console.log(b);
+	
+	
+	https://www.javascripttutorial.net/javascript-bind/
+	https://www.javascripttutorial.net/javascript-immediately-invoked-function-expression-iife/
+
+
+
+

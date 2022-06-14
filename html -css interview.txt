@@ -1,0 +1,35 @@
+HTML
+
+	semantic html tags
+		A semantic element clearly describes its meaning to both the browser and the developer.
+	
+	https://www.admecindia.co.in/web-design/10-new-features-html5-examples/
+	tag added in html5
+		video and audio
+		svg
+		semantic tags
+			article
+			nav
+			header
+			footer
+			section
+			aside
+			main
+			figure and figcaption
+			address
+			details
+			summary
+		new input tags
+			email attribute
+			color
+			time
+			number
+			range
+			search
+			tel
+			placeholders in form
+			required attribute
+			
+		
+		
+	inputs added in html5

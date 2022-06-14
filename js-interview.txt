@@ -1,0 +1,169 @@
+
+JAVASCRIPT
+
+	
+
+	var vs let vs const
+		https://www.freecodecamp.org/news/var-let-and-const-whats-the-difference/
+	
+	
+	hoisting
+		Hoisting in JavaScript is a behavior in which a function or a variable can be used before declaration
+		https://www.programiz.com/javascript/hoisting
+		
+		
+	closures
+		https://www.youtube.com/watch?v=3a0I8ICR1Vg
+		A closure is the combination of a function bundled together (enclosed) with references to its surrounding state (the lexical environment).
+		In other words, a closure gives you access to an outer function's scope from an inner function. In JavaScript, closures are created every time a function is created, at function creation time
+		https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures
+		
+	Data types, primitive
+		In JavaScript, a primitive (primitive value, primitive data type) is data that is not an object and has no methods or properties.
+		There are 7 primitive data types: string, number, bigint, boolean, undefined, symbol, and null.
+		https://developer.mozilla.org/en-US/docs/Glossary/Primitive
+		https://www.google.com/search?client=firefox-b-d&q=primitive+data+types+in+javascript
+		
+	
+	binding in javascript
+		With the bind() method, an object can borrow a method from another object.
+		https://www.w3schools.com/js/js_function_bind.asp
+		
+		
+	NaN
+		//https://www.javascripttutorial.net/javascript-nan/
+		
+	synchronous vs asynchronous
+		https://www.freecodecamp.org/news/synchronous-vs-asynchronous-in-javascript/
+		
+	
+	destructuring
+		
+	
+	sread operator
+		
+	
+	rest operator
+	
+	
+	Objects in javascript
+		https://www.w3schools.com/js/js_object_properties.asp
+		
+	
+	instanceof
+		// https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/instanceof
+		The instanceof operator tests to see if the prototype property of a constructor appears
+		anywhere in the prototype chain of an object. The return value is a boolean value. 
+		
+	
+	arrow functions
+		https://www.w3schools.com/react/react_es6_arrow.asp
+		Arrow functions allow us to write shorter function syntax:
+		
+	
+	traversing
+	
+	call, apply, bind
+		https://medium.com/@omergoldberg/javascript-call-apply-and-bind-e5c27301f7bb
+	
+	Event loop
+		https://www.geeksforgeeks.org/what-is-an-event-loop-in-javascript/
+	
+	map,filter,reduce // reduce needs to revisit
+		
+	
+	Callback function in javascript
+		A JavaScript callback is a function which is to be executed after another function has finished execution.
+		A more formal definition would be - Any function that is passed as an argument to another function so that it can be executed in that other function is called as a callback function.
+		https://www.simplilearn.com/tutorials/javascript-tutorial/callback-function-in-javascript
+
+
+	Fetch API
+		https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch
+		
+		fetch("url")
+		.then( response => response.json() )
+		.then( data => console.log(data) )
+		
+	promise, sync, await
+	
+	try, catch
+		
+
+
+24-may-2022
+
+	generators
+		https://javascript.info/generators
+		
+	function statement vs function declaration
+	spread operator vs rest parameter
+	call, apply, bind
+	middlewares
+	destructuring
+	debouncing
+	polyfills
+
+
+synchrony
+		difference between == and ===
+		virtual dom vs real dom
+		what is JSX
+		Events and synthetic events	// need to revisit
+		stateful and stateless components,
+		states and props,
+		HOC	// need to revisit
+	react routers
+	hooks
+	prop drilling
+		
+		
+	memoization in javascript, react
+	https://www.freecodecamp.org/news/memoization-in-javascript-and-react/
+	
+	https://lo-victoria.com/a-look-at-react-hooks-usecallback
+	The word 'memoized' or 'memoization' is an optimization technique to speed up expensive function calls by
+	returning cached results instead of re-computing if the inputs of the function are the same.
+	
+	
+	Pass by Value and Pass by Reference in Javascript
+	https://www.geeksforgeeks.org/pass-by-value-and-pass-by-reference-in-javascript/
+	
+
+https://www.fullstack.cafe/blog/react-js-interview-questions
+
+
+	https://www.instagram.com/p/CeKkCE1PQR3/
+	What are the different data types present in javscript?
+	difference between == and === operators
+	explain implicit type coercion in javascript
+	Is javascript a statically typed or a dynamically typed language?
+	explain passed by value and passed by reference
+	what is an immediately invoked funcion in js
+	explain higher order function in js
+	explain this keyword
+	what is currying in js
+	explain scope and scope chain in js
+	explain closures
+	what are object prototypes?
+	what are callbacks
+	memoization?
+	what is recursion in a programming language
+	what is the use of a constructor function in js?
+	what is dom?
+	
+	ADVANCED
+	what are generator functions?
+	explain weakset in js
+	explain weakmap in js
+	what is object destructuring?
+	what is temporal dead zone?
+
+
+https://www.instagram.com/p/Cd3OSG4D-MQ/
+Github repos to master javascript
+
+
+https://github.com/lydiahallie/javascript-questions
+
+	

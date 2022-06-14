@@ -1,0 +1,58 @@
+javascript es6 features list
+
+	https://github.com/lukehoban/es6features
+	ES6 includes the following new features:
+	
+	https://www.javatpoint.com/es6
+	
+
+    arrows
+    classes
+    enhanced object literals
+    template strings
+    destructuring
+    default + rest + spread
+    let + const
+    iterators + for..of
+    generators
+    unicode
+    modules
+    module loaders
+    map + set + weakmap + weakset
+    proxies
+    symbols
+    subclassable built-ins
+    promises
+    math + number + string + array + object APIs
+    binary and octal literals
+    reflect api
+    tail calls
+
+
+	https://medium.com/@kavisha.talsania/top-10-es6-features-every-javascript-developer-must-know-4c81ec54bbcd
+	
+	
+	https://www.instagram.com/p/CeTW8JqDksm/
+	ES6 interview questions
+	
+	Mention some popular deatures of ES6
+	what are the object oriented features supported in ES6
+	Give a thorough comparison between ES5 and ES6
+	What is the difference between let and const? what distinguish both from var?
+	discuss the arrow function?
+	When should one not use Arrow Functions?
+	What is the generator function?
+	what is the "spread" operator in ES6?
+	explain destructuring in ES6
+	What are promises in ES6?
+	Explain the rest parameter in ES6
+	Discuss the template literals in ES6
+	Why should one use ES6 classes?
+	How can you create a class in ES6?
+	what is a class expression?
+	what do you understand about default parameters?
+	what do you understand about IIFE (Immediately Invoked Dunction Expressions)?
+	What are the states of promises in ES6?
+	What is Export default and named export in ES6?
+	Which keyword can be used to deploy inheritance in ES6?
+	

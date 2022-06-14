@@ -1,0 +1,72 @@
+import React from 'react';
+import './style.css';
+
+export default function App() {
+  const data = [
+    {
+      id: 1,
+      value: 'Pune',
+    },
+    {
+      id: 2,
+      value: 'Mumbai',
+    },
+    {
+      id: 5,
+      value: 'Kolkata',
+    },
+    {
+      id: 4,
+      value: 'Hyderabad',
+    },
+    {
+      id: 5,
+      value: 'Bangalore',
+    },
+  ];
+
+  const out = data.filter( (item) => item.id === 5);
+
+  return <div>{out[0].value}</div>;
+}
+
+
+//-------------------------------//
+// es6 features
+// 
+
+import React from 'react';
+import './style.css';
+
+export default function App() {
+  const data = [
+    {
+      id: 1,
+      value: 'Pune',
+    },
+    {
+      id: 2,
+      value: 'Mumbai',
+    },
+    {
+      id: 5,
+      value: 'Kolkata',
+    },
+    {
+      id: 4,
+      value: 'Hyderabad',
+    },
+    {
+      id: 5,
+      value: 'Bangalore',
+    },
+  ];
+
+  
+  const out = data.filter( (item) => item.id === 5).map( item => <li>{item.value}</li>);
+
+  return <ul>{out}</ul>;
+}
+
+
+//
