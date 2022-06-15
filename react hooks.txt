@@ -45,6 +45,9 @@ REACT HOOKS
 		
 		https://lo-victoria.com/a-look-at-react-hooks-useeffect
 		
+		Understanding React’s useEffect cleanup function
+		https://blog.logrocket.com/understanding-react-useeffect-cleanup-function/
+		
 	useLayoutEffect
 		similar as useEffect
 		

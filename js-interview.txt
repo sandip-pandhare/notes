@@ -88,6 +88,19 @@ JAVASCRIPT
 	promise, sync, await
 	
 	try, catch
+	
+	The Difference Between for...in And for...of in JavaScript
+		https://www.webtips.dev/webtips/javascript/the-difference-between-for-in-and-for-of-in-javascript
+	
+	
+	Higher Order Functions in javascript
+		https://dmitripavlutin.com/javascript-higher-order-functions/
+		The functions that use other functions as arguments or return functions are named higher-order functions.
+		
+		https://dmitripavlutin.com/javascript-higher-order-functions/
+		
+		examples : forEach, map, filter, reduce
+	
 		
 
 
